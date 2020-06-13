@@ -1,0 +1,17 @@
+discord.py[voice]
+uvloop
+beautifulsoup4
+google-api-python-client
+lxml
+pillow
+psutil
+xmltodict
+youtube-dl
+fuzzywuzzy
+python-Levenshtein
+motor
+pytz
+numpy
+objgraph
+dblpy
+sympy
